@@ -19,8 +19,8 @@ Abstract:
 - mathsat-5.5.4-linux-x86_64/...: You can get it from https://mathsat.fbk.eu/download.html .
 
 ## Author
-Takamasa Okudono, Andy King
+Takamasa Okudono (http://group-mmm.org/~tokudono/), Andy King
 
 
-[1] Takamasa Okudono, Andy King: Mind the Gap: Bit-vector Interpolation recast over Linear Integer Arithmetic. TACAS (1) 2020: 79-96
-[2] Yulia Demyanova, Philipp Rümmer, Florian Zuleger: Systematic Predicate Abstraction Using Variable Roles. NFM 2017: 265-281
+- [1] Takamasa Okudono, Andy King: Mind the Gap: Bit-vector Interpolation recast over Linear Integer Arithmetic. TACAS (1) 2020: 79-96
+- [2] Yulia Demyanova, Philipp Rümmer, Florian Zuleger: Systematic Predicate Abstraction Using Variable Roles. NFM 2017: 265-281
