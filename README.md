@@ -9,7 +9,7 @@ Abstract:
 
 ## Structure
 - experiment: main code
--- small.txt: the benchmark run in the experiment
+    - small.txt: the benchmark run in the experiment
 - make_figure: Jupyter notebook to generate figures in the paper
 - mathsat-5.5.4-linux-x86_64: MathSAT5.  The content is omitted.  
 - Readme_TACAS20_AE.txt: Readme.txt submitted to the TACAS20 Artifact Evaluation comittee.  You can replicate the result by gathering third party resources (MathSAT5 and benchmark programs) and following this.
